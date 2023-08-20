@@ -1,4 +1,4 @@
-# ComfyUI Custom Nodes
+# ComfyUI Custom Nodes 阿里云翻译版
 
 Custom nodes that extend the capabilities of [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
