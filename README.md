@@ -20,7 +20,7 @@ Custom nodes that extend the capabilities of [ComfyUI](https://github.com/comfya
 
 ```
 custom_nodes
-   |-- ComfyUI_Custom_Nodes_AlekPet
+   |-- ComfyUI_Custom_Nodes_AlekPet_Ali
        |---- folders nodes
        |---- __init__.py
        |---- LICENSE
@@ -40,5 +40,6 @@ custom_nodes
    > >
    > > **Variant 2:** Press on keyboard Windows+R, and enter cmd.exe open window cmd, enter **cd /d your_path_to_custom_nodes**, **Enter** on keyboard
 4. Enter `git clone https://github.com/tvsj/ComfyUI_Custom_Nodes_AlekPet_Ali.git`
-5. After this command be created folder ComfyUI_Custom_Nodes_AlekPet
-6. Run Comflyui....
+5. After this command be created folder ComfyUI_Custom_Nodes_AlekPet_Ali
+6. set TranslateNode/env_config.json use the right key and secret
+7. Run Comflyui....
