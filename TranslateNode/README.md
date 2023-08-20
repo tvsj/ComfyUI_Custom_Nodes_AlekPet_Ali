@@ -1,4 +1,4 @@
-# TranslateNode node for ComfyUI
+# TranslateNode node for ComfyUI 使用阿里云翻译
 
 Custom nodes for ComfyUI, translate promt from other languages into english
 
