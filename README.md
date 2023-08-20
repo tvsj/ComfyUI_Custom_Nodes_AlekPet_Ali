@@ -39,6 +39,6 @@ custom_nodes
    > > **Variant 1:** In folder click panel current path and input **cmd** and press **Enter** on keyboard
    > >
    > > **Variant 2:** Press on keyboard Windows+R, and enter cmd.exe open window cmd, enter **cd /d your_path_to_custom_nodes**, **Enter** on keyboard
-4. Enter `git clone https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git`
+4. Enter `git clone https://github.com/tvsj/ComfyUI_Custom_Nodes_AlekPet_Ali.git`
 5. After this command be created folder ComfyUI_Custom_Nodes_AlekPet
 6. Run Comflyui....
